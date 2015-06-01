@@ -1,0 +1,288 @@
+section {
+	width: 600px;
+	height: 700px;
+	background: #e1e2df;
+	position: relative;
+
+}
+i.fa.fa-sort {
+	float: right;
+	margin-right: 10px;
+	margin-top: 15px;
+}
+div.one {
+	width: 200px;
+	height: 50px;
+	margin-left: 70px;
+	background: white;
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 30px;
+	border-radius: 3px;
+}
+span#one{
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+}
+div.two {
+	width: 200px;
+	height: 50px;
+	background: white;
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 30px;
+	border-radius: 3px;
+}
+span#two {
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+}
+
+div.three {
+	width: 200px;
+	height: 50px;
+	margin-left: 70px;
+	background: white;
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 30px;
+	border-radius: 3px;
+}
+span#three {
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+}
+
+div.four {
+	width: 200px;
+	height: 50px;
+	background: white;
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 30px;
+	border-radius: 3px;
+}
+span#four {
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+}
+div.five {
+	width: 200px;
+	height: 50px;
+	margin-left: 70px;
+	background: #e1e2df;
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 30px;
+	border-radius: 3px;
+	border: 1px solid gray;
+}
+span#five {
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+}
+
+table {
+	height: 400px;
+	width: 200px;
+	float: right;
+	margin-right: 7px;
+}
+td#one {
+	width: 200px;
+	height: 50px;
+	background: white;
+	display: inline-block;
+	margin-right: 55px;
+	margin-top: 30px;
+	border-radius: 3px;
+	border: 1px solid #e1e2df;
+}
+span#clickone {
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+}
+td#two {
+	width: 200px;
+	height: 50px;
+	background: black;
+	display: inline-block;
+	margin-right: 55px;
+	border: 1px solid #3c3c3c;
+}
+span#tcone {
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+	color: white;
+}
+td#three {
+	width: 200px;
+	height: 50px;
+	background: black;
+	display: inline-block;
+	margin-right: 55px;
+	margin-top: -1px;
+	border: 1px solid #3c3c3c;
+}
+span#tctwo {
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+	color: white;
+}
+td#four {
+	width: 200px;
+	height: 50px;
+	background: black;
+	display: inline-block;
+	margin-right: 55px;
+	border-radius: 3px;
+	margin-top: -1px;
+	border: 1px solid #3c3c3c;
+}
+span#tcthree {
+	position: relative;
+	font-weight: 600;
+	font-size: 14px;
+	top: 25%;
+	left: 5px;
+	color: white;
+}
+
+
+div.six {
+	width: 200px;
+	height: 50px;
+	margin-left: 70px;
+	background: white;
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 30px;
+	border-radius: 3px;
+	background: #6bd;
+	text-align: center;
+}
+span#six {
+	position: relative;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	top: 25%;
+	letter-spacing: 1px; 
+}
+
+div.seven {
+	width: 200px;
+	height: 50px;
+	margin-left: 70px;
+	background: white;
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 30px;
+	border-radius: 3px;
+	background: #8cb;
+	text-align: center;
+}
+
+span#seven {
+	position: relative;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	top: 25%;
+	letter-spacing: 1px; 
+}
+
+
+span#iconone {
+	position: relative;
+	top: 50px;
+	left: 70px;
+	font-size: 1.1em;
+	font-family: Avenir;
+	display: inline-block;
+}
+i#two.fa.fa-circle-o {
+	margin-left: 40px;
+}
+
+i#three.fa.fa-square-o {
+	margin-top: 50px;
+}
+i#four.fa.fa-circle-o {
+	margin-left: 50px;
+}
+i#five.fa.fa-check-square {
+	margin-top: 50px;
+}
+i#six.fa.fa-check-circle {
+	margin-left: 50px;
+}
+
+
+div.search {
+	width: 200px;
+	height: 50px;
+	background: white;
+	display: inline-block;
+	border-radius: 3px;
+	position: relative;
+	left: 335px;
+	bottom: 100px;
+}
+span#searchbutton {
+	font-weight: 600;
+	position: relative;
+	top: 14px;
+	left: 7px;
+}
+i.fa.fa-search {
+	position: relative;
+	left: 125px;
+	top: 14px;
+
+}
+
+div.hoverstate {
+	width: 200px;
+	height: 50px;
+	background: white;
+	display: inline-block;
+	border-radius: 3px;
+	position: relative;
+	left: 130px;
+}
+span#hoverstate {
+	font-weight: 600;
+	position: relative;
+	top: 14px;
+	left: 7px;
+}
+i#two.fa.fa-search {
+	position: relative;
+	left: 93px;
+	top: 14px;
+}
