@@ -286,3 +286,214 @@ i#two.fa.fa-search {
 	left: 93px;
 	top: 14px;
 }
+
+@media screen and (max-width: 480px) {
+	section {
+		width: 399px;
+		margin: 0px;
+	}
+	/*----ONE----*/
+	div.one {
+		width: 120px;
+		height: 40px;
+		margin-left: 35px;
+	}
+	div.one:hover {
+		box-shadow: 1px 1px 5px black;
+	}
+	span#one {
+		font-size: 11px;
+		font-weight: 500px;
+		font-family: Xirod;
+		left: 20px;
+		letter-spacing: 2px;
+	}
+	/*----TWO----*/
+	div.two {
+		width: 120px;
+		height: 40px;
+		margin-left: 43px
+	}
+	div.two:hover {
+		box-shadow: 1px 1px 5px black;
+	}
+	span#two {
+		font-size: 11px;
+		font-weight: 500px;
+		font-family: xirod;
+		left: 10px;
+		letter-spacing: 2px;
+	}
+	i.fa.fa-sort {
+		margin-top: 14px;
+	}
+	/*----THREE----*/
+	div.three {
+		width: 120px;
+		height: 40px;
+		margin-left: 35px;
+	}
+	div.three:hover {
+		box-shadow: 1px 1px 5px black;
+	}
+	span#three {
+		font-size: 11px;
+		font-weight: 500px;
+		font-family: Xirod;
+		left: 30px;
+	}
+	/*----FOUR----*/
+	div.four {
+		width: 120px;
+		height: 40px;
+		margin-left: 43px;
+	}
+	div.four:hover {
+		box-shadow: 1px 1px 5px black;
+	}
+	span#four {
+		font-size: 11px;
+		font-weight: 500px;
+		font-family: xirod;
+		left: 15px;
+	}
+	/*----FIVE----*/
+	div.five {
+		width: 120px;
+		height: 40px;
+		margin-left: 35px;
+		background-color: #ecb;
+	}
+	div.five:hover {
+		box-shadow: 1px 1px 5px black;
+	}
+	span#five {
+		font-size: 11px;
+		font-weight: 500px;
+		font-family: Xirod;
+		left: 8px;
+	}
+	/*-----TABLE-----*/
+	table {
+		width: 120px;
+		height: 200px;
+	}
+	td#one {
+		width: 120px;
+		height: 40px;
+		margin-right: 40px;
+	}
+	span#clickone {
+		font-size: 11px;
+		font-weight: 500px;
+		font-family: Xirod;
+		left: 30px;
+	}
+	td#two {
+		width: 120px;
+		height: 40px;
+		margin-right: 40px;
+	}
+	span#tcone {
+		font-size: 11px;
+		font-weight: 500px;
+		font-family: Xirod;
+		left: 10px;
+	}
+	td#three {
+		width: 120px;
+		height: 40px;
+		margin-right: 40px;
+	}
+	span#tctwo {
+		font-size: 11px;
+		font-weight: 500px;
+		font-family: Xirod;
+		left: 10px;
+	}
+	td#four {
+		width: 120px;
+		height: 40px;
+		margin-right: 40px;
+	}
+	span#tcthree {
+		font-size: 10px;
+		font-weight: 500px;
+		font-family: Xirod;
+		left: 5px;
+	}
+	/*------SIX------*/
+	div.six {
+		width: 120px;
+		height: 40px;
+		margin-left: 35px;
+	}
+	div.six:hover {
+		box-shadow: 1px 1px 5px black;
+	}
+	span#six {
+		font-family: xirod;
+		font-size: 13px;
+	}
+	/*-------SEVEN-------*/
+	div.seven {
+		width: 120px;
+		height: 40px;
+		margin-left: 35px;
+	}
+	div.seven:hover {
+		box-shadow: 1px 1px 5px black;
+	}
+	span#seven {
+		font-size: 13px;
+		font-family: xirod;
+	}
+	/*-------ICONS-------*/
+	span#iconone {
+		left: 35px;
+		font-size: 12px;
+	}
+	i#two.fa.fa-circle-o {
+		margin-left: 25px;
+	}
+	i#four.fa.fa-circle-o {
+		margin-left: 33px;
+	}
+	i#six.fa.fa-check-circle {
+		margin-left: 37px;
+	}
+	/*-------SEARCH-------*/
+	div.search {
+		width: 120px;
+		height: 40px;
+		left: 85px;
+		bottom: 70px;
+	}
+	span#searchbutton {
+		font-family: xirod;
+		font-size: 10px;
+		letter-spacing: 1px;
+		top: 10px;
+	}
+	i.fa.fa-search {
+		left: 30px;
+		top: 11px;
+	}
+	/*-------LAST BUTTON-------*/
+	div.hoverstate {
+		width: 120px;
+		height: 40px;
+		left: -42px;
+		bottom: -30px;
+	}
+	span#hoverstate {
+		font-family: xirod;
+		font-size: 10px;
+		letter-spacing: 1px;
+		top: 10px;
+		left: 3px;
+	}
+	i#two.fa-search {
+		visibility: hidden;
+	}
+}
